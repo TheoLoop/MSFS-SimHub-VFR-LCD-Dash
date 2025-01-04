@@ -39,3 +39,5 @@ Install Instructions:
  - (This will simply add the font to your PC so everything in the dash lines up nicely.
 3. Double click the SimHub Dash file to import it into your simhub install.
 4. Activate the dash on your window or external display and Enjoy!
+
+Video of Dash in Action: https://youtu.be/r6WO3GqAEyU?si=XB68d9e7-jPJsX87
