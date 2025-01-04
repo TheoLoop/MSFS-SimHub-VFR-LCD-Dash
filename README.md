@@ -31,3 +31,11 @@ WARNINGS (Right side)
 
 -Overspeed red alert
 -Stall flashing orange alert
+
+Install Instructions:
+
+1. Download Zip file.
+2. BEFORE importing dash. take the "digital-7.ttf" font files (4) and drag and drop them to C:\Windows\Fonts.
+ - (This will simply add the font to your PC so everything in the dash lines up nicely.
+3. Double click the SimHub Dash file to import it into your simhub install.
+4. Activate the dash on your window or external display and Enjoy!
